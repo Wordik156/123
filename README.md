@@ -39,6 +39,7 @@ elif Type == 5:        # 5 из 36 ВВОД
     pole1 = int(input())
     stol1.append(pole1)
   for x in range(1):
+  
     pole2 = int(input())
     slot2.append(pole2)
 elif Type == 4:        # 4 из 20 ВВОД 
